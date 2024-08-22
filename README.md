@@ -9,3 +9,4 @@
 ### advanced database problems using SQL and T-SQL. The focus is on solving complex queries, 
 ### optimizing database performance, and implementing advanced database concepts like indexing, partitioning, and transactions.
 
+https://leetcode.com/studyplan/top-sql-50/
